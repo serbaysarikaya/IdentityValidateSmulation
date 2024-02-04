@@ -1,4 +1,8 @@
-﻿namespace IdentityValidateSmulation
+﻿using IdenityValidateService;
+using IdentityValidateSmulation.Entities;
+using IdentityValidateSmulation.Managers;
+
+namespace IdentityValidateSmulation
 {
 
     class Program
